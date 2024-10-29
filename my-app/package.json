@@ -2,7 +2,7 @@
   "name": "my-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gitname.github.io/hsadler24/COGS125",
+  "homepage": "https://hsadler24.github.io/COGS125",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
