@@ -34,7 +34,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        (There's no wrong choice except for white chocolate...)
+        There's no wrong choice except for white chocolate...
       </p>
     </>
   )
